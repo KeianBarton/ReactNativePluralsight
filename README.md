@@ -27,3 +27,5 @@ Shake the device e.g. select "debug JS remotely" which open a browser window or 
 
 # Learning React Native Basics
 
+- View: A container that supports layout with flexbox, style, stome touch handling and accesibility controls.
+- Props / state work the same way as React props / state
